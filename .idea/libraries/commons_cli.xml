@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="commons-cli">
+    <CLASSES>
+      <root url="file:///usr/share/java/commons-cli" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file:///usr/share/java/commons-cli" recursive="false" />
+  </library>
+</component>

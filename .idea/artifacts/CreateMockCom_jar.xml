@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="CreateMockCom:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CreateMockCom_jar</output-path>
+    <root id="archive" name="CreateMockCom.jar">
+      <element id="module-output" name="CreateMockCom" />
+      <element id="library" level="project" name="commons-cli" />
+    </root>
+  </artifact>
+</component>
