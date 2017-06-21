@@ -1,1 +1,4 @@
 *.html linguist-documentation
+test* linguist-documentation
+.idea linguist-documentation
+*.iml linguist-documentation
